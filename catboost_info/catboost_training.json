@@ -1,6 +1,7 @@
 {
-"meta":{"launch_mode":"Train","name":"experiment","iteration_count":2,"learn_metrics":[{"best_value":"Min","name":"CrossEntropy"}],"test_sets":[],"test_metrics":[],"learn_sets":["learn"]},
+"meta":{"launch_mode":"Train","name":"experiment","iteration_count":3,"learn_metrics":[{"best_value":"Min","name":"CrossEntropy"}],"test_sets":[],"test_metrics":[],"learn_sets":["learn"]},
 "iterations":[
-{"learn":[0.6353465778],"iteration":0,"passed_time":0.07683466043,"remaining_time":0.07683466043},
-{"learn":[0.629642961],"iteration":1,"passed_time":0.1067570991,"remaining_time":0}
+{"learn":[0.6203737813],"iteration":0,"passed_time":0.0360438166,"remaining_time":0.0720876332},
+{"learn":[0.6098562881],"iteration":1,"passed_time":0.07390383691,"remaining_time":0.03695191846},
+{"learn":[0.605624589],"iteration":2,"passed_time":0.1079821857,"remaining_time":0}
 ]}
