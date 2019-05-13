@@ -1,6 +1,7 @@
 name	experiment
-iterCount	3
+iterCount	3000
 learnErrorLog	learn_error.tsv
 testErrorLog	test_error.tsv
 timeLeft	time_left.tsv
-loss	CrossEntropy	min
+loss	AUC	max
+loss	Logloss	min
