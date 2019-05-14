@@ -1,5 +1,9 @@
 name	experiment
+<<<<<<< HEAD
+iterCount	1000
+=======
 iterCount	3000
+>>>>>>> c3b35efca994638fd8c38898c092c6df815870c7
 learnErrorLog	learn_error.tsv
 testErrorLog	test_error.tsv
 timeLeft	time_left.tsv
